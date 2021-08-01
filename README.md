@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I am a Front End Developer currently filling out my knowledge of backend technologies. Currently very comfortable with Node.js and Express. 
+## I am always trying to learn relevant technologies as well and have begun to study for additional certifications such as AWS.
+
+[Portfolio](https://mighty-meadow-12463.herokuapp.com/)
+[LinkedIn Profile](https://www.linkedin.com/in/richie-tauch-13a0b9115/)
+
 ![portpic](https://user-images.githubusercontent.com/80383079/127759317-564cfd6e-ae42-4fa7-b62b-47125248a539.JPG)
 <!--
 **Rumtikitum/Rumtikitum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
