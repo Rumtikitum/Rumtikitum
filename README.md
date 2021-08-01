@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## I am a Front End Developer currently filling out my knowledge of backend technologies. Currently very comfortable with Node.js and Express. 
-## I am always trying to learn relevant technologies as well and have begun to study for additional certifications such as AWS.
+#### I am a Front End Developer currently filling out my knowledge of backend technologies. Currently very comfortable with Node.js and Express. 
+#### I am always trying to learn relevant technologies as well and have begun to study for additional certifications such as AWS.
 
 [Portfolio](https://mighty-meadow-12463.herokuapp.com/)
 [LinkedIn Profile](https://www.linkedin.com/in/richie-tauch-13a0b9115/)
