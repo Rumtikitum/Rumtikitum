@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![portpic](https://user-images.githubusercontent.com/80383079/127759317-564cfd6e-ae42-4fa7-b62b-47125248a539.JPG)
 <!--
 **Rumtikitum/Rumtikitum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
